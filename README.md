@@ -77,7 +77,7 @@ This will run the Jest test suite and display the test results.
 <div align='center'>
 
 
-https://github.com/AlexanderJGael/svg_generator/assets/130517352/64bfa419-3512-4a2b-bf96-54903691b714
+https://github.com/AlexanderJGael/svg_generator/assets/130517352/a32518ba-f3fc-44f0-a434-a9a51c837305
 
 
 </div>
