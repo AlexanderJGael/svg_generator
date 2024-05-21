@@ -15,20 +15,21 @@ This project is a demonstration of object-oriented programming (OOP) concepts us
 - Jest: The testing framework used to write and run tests for the shapes library.
 - Inquirer.js: The library used for creating interactive command-line interfaces.
 
-## Dependencies
-The project dependencies are managed using npm. The following dependencies are used:
-
-inquirer: Version 8.2.6
-jest: Version 29.7.0
-To install these dependencies, run the following command in your terminal: `npm install`
-
 ## Usage
-To run the project, use the following command: `npm start`
+To install project dependencies, use the following command:
 
-This will start the interactive command-line interface, where you can choose a shape and generate an SVG file of that shape.
+    npm install
+
+to run the app, use the following command:
+
+    npm start
+
+This will start the interactive command-line interface, where a user is prompted to input three characters & associated color, and choose one of three characters & associated color to output an image with the text overlaying the shape as an SVG file.
 
 ## Testing
-To run the tests, use the following command: `npm test`
+To run the tests, use the following command: 
+
+    npm test
 
 This will run the Jest test suite and display the test results.
 
