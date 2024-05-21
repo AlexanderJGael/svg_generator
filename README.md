@@ -59,10 +59,7 @@ This will run the Jest test suite and display the test results.
 ## Walkthrough
 
 <div align='center'>
-    <video width='720' controls>
-        <source src='https://github.com/AlexanderJGael/svg_generator/assets/130517352/a3999eb3-b874-462c-ac46-00dcad57043d)'>
-        </source>
-    </video>
+    ![Walkthrough](https://github.com/AlexanderJGael/svg_generator/assets/130517352/a67110b5-68f6-4ecf-9a12-8f51b0cb8b6a)
 </div>
 
 ## License
