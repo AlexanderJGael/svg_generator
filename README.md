@@ -1,29 +1,6 @@
-<style>
-    span {
-        font-size: 4rem;
-        font-weight: 900;
-        text-align: 'center';
-        color: transparent;
-        text-stroke: 1px white;
-        -webkit-text-stroke: 1px white;
-        letter-spacing: .5rem
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        text-align: center;
-        margin-top: 4rem;
-        font-size: 2rem;
-        font-weight: 900;
-        color: transparent;
-        text-stroke: 1px white;
-        -webkit-text-stroke: 1px white;
-        letter-spacing: .2rem;
-    }
-</style>
-
 <!-- Title -->
 <div align='center'>
-    <span>SVG Generator<span>
+    <span># SVG Generator<span>
 </div>
 
 ## Description
@@ -83,8 +60,8 @@ This will run the Jest test suite and display the test results.
 
 <div align='center'>
     <video width='720' controls>
-        <source src='/assets/videoWalkthrough.mp4' type='video/mp4'>
-        Your browser does not support the video tag
+        <source src='https://github.com/AlexanderJGael/svg_generator/assets/130517352/a3999eb3-b874-462c-ac46-00dcad57043d)'>
+        </source>
     </video>
 </div>
 
