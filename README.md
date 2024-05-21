@@ -3,6 +3,9 @@
 # **SVG Generator**
 
 
+![Logo](/assets/demo.svg)
+
+
 </div>
 
 ## Description
@@ -13,20 +16,20 @@ This project is a demonstration of object-oriented programming (OOP) concepts us
 - Input:
     
         Enter three characters to display:
-        $ ajg
+        $ abc
 
-        Enter a color or hexidecimal value:
+        Enter a color or hexidecimal value for characters:
         $ white
 
-        Choose one of the following shapes:
-        > Circle
+        Select a shape to display:
+        > Square
 
-        Enter a color or hexidecimal value:
-        $ pink
+        Enter a color or hexidecimal value for your shape:
+        $ White
 
     - Output:
 
-    ![Image](./assets/demo.svg)
+    ![Image](./output/logo.svg)
 
 
 ## Table of Contents
