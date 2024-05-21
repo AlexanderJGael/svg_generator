@@ -19,13 +19,13 @@ This project is a demonstration of object-oriented programming (OOP) concepts us
         $ abc
 
         Enter a color or hexidecimal value for characters:
-        $ white
+        $ black
 
         Select a shape to display:
         > Square
 
         Enter a color or hexidecimal value for your shape:
-        $ White
+        $ white
 
     - Output:
 
