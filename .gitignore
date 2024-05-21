@@ -9,3 +9,6 @@ dist/
 
 # Ignore .vscode directory
 .vscode/
+
+# Ignore output directory
+output/
